@@ -1,0 +1,4 @@
+# Boyce Park Ski Patrol Website
+I created this website for my ski patrol (Boyce Park Ski Patrol). This website contained announcements for the patrol and was a place everyone could see each others contact information. This website is designed with an SQL database so that all of the patrollers can make their own accounts, and some pages are only accessible if one is signed in.
+
+This website was in use from creation the winter of 2018-2019, but discontinued the next season because the patrol was tight on money and directed the funds that would be spent hosting the website elsewhere. Nonetheless, I have included the code on display here. To view this website, a local server must be used (I use XAMPP with Apache Web Server, ProFTPD, and MYSQL database). I have included images of the website in the folder titled 'samples'.
